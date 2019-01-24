@@ -1,0 +1,11 @@
+contracts/.placeholder
+test/.placeholder
+build
+.vs
+.vscode
+bin
+node_modules
+coverage/
+.env
+.node-xmlhttprequest-sync
+coverage.json
