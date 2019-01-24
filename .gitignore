@@ -1,6 +1,6 @@
 contracts/.placeholder
 test/.placeholder
-./src/contracts
+app/src/contracts
 build
 .vs
 .vscode
